@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.json
+*.jpg
+*.png
+*.mp4
+*.avi
+*.mkv
+*.log
+.env
